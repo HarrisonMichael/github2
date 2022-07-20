@@ -1,0 +1,13 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+h1 {
+    color: white;
+    background-color: violet;
+    width: 200px;
+}
+
+.thingILike {
+    background-color: red;
+    color: white;
+}
